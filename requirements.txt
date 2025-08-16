@@ -1,0 +1,11 @@
+flask==3.0.3
+werkzeug==3.0.4
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+scikit-learn==1.5.2
+tensorflow==2.16.1
+h5py==3.11.0
+ipykernel==6.29.5
+jupyter==1.0.0
